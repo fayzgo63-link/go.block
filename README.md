@@ -1,1 +1,1 @@
-# GoBlack-DDos
+# go.blocked
